@@ -21,7 +21,7 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
 | Arsitektur IoT | 3 Lapisan |
 | Kerangka Kerja | • Bootstrap<br>• Font-Awesome |
 | Bahasa Pemrograman | • C/C++<br>• JavaScript<br>• PHP |
-| Pustaka Arduino | • ESP8266WiFi (bawaan)<br>• ThingSpeak<br>• DHT_sensor_library<br>• CTBot<br>• ArduinoJson |
+| Pustaka Arduino | • ESP8266WiFi (bawaan)<br>• ThingSpeak oleh MathWorks (Versi: 2.0.1)<br>• DHT_sensor_library oleh Adafruit (Versi: 1.4.6)<br>• CTBot oleh Stefano Ledda (Versi: 2.1.9)<br>• ArduinoJson oleh Benoit Blanchon (Versi: 6.19.4) |
 | Sensor | DHT22: Air Temperature & Humidity (x1) |
 | Komponen Lainnya | • Kabel USB Mikro - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Kotak casing (x1)<br>• Adaptor DC 5V (x1) |
 
