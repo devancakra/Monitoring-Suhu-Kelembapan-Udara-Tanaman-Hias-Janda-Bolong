@@ -1,10 +1,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/cakraawijaya/Sistem-Pemantauan-Suhu-dan-Kelembaban-Udara-Pada-Tanaman-Hias-Janda-Bolong-Terintegrasi?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![GitHub last commit](https://img.shields.io/github/last-commit/cakraawijaya/Sistem-Pemantauan-Suhu-dan-Kelembapan-Udara-Pada-Tanaman-Hias-Janda-Bolong-Terintegrasi?logo=Codeforces&logoColor=white&color=%23F7DF1E)
 ![Project](https://img.shields.io/badge/Project-NodeMCU-light.svg?style=flat&logo=espressif&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Undergraduate%20Research-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Sistem Pemantauan Suhu dan Kelembaban Udara Pada Tanaman Hias Janda Bolong Terintegrasi
+# Sistem Pemantauan Suhu dan Kelembapan Udara Pada Tanaman Hias Janda Bolong Terintegrasi
 Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat bertahan hidup secara optimum di suhu 23-30°C, dengan kelembapan udara kurang dari 40%. Suhu dan kelembapan udara harus diperhatikan setiap saat, sebab perubahan yang ekstrim bisa memicu tanaman ini menjadi layu. Proyek ini dibuat untuk mempermudah pengguna dalam mengawasi perubahan suhu dan kelembapan udara yang ada di area tanam janda bolong secara realtime, sehingga pengguna akan lebih diuntungkan dari segi waktu dan tenaga. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 1 bulan. Manfaat dari pembuatan proyek ini tidak lain adalah untuk menjaga tumbuh kembang tanaman janda bolong. Hasil penelitian menunjukkan bahwa sistem yang dibuat dapat berfungsi dengan baik. Antarmuka sistem menggunakan Bot Telegram dan Website.
 
 <br><br>
@@ -22,7 +22,7 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
 | Kerangka Kerja | • Bootstrap<br>• Font-Awesome |
 | Bahasa Pemrograman | • C/C++<br>• JavaScript<br>• PHP |
 | Pustaka Arduino | • ESP8266WiFi (bawaan)<br>• ThingSpeak oleh MathWorks (Versi: 2.0.1)<br>• DHT_sensor_library oleh Adafruit (Versi: 1.4.6)<br>• CTBot oleh Stefano Ledda (Versi: 2.1.9)<br>• ArduinoJson oleh Benoit Blanchon (Versi: 6.19.4) |
-| Sensor | DHT22: Air Temperature & Humidity (x1) |
+| Sensor | DHT22: Suhu & Kelembapan Udara (x1) |
 | Komponen Lainnya | • Kabel USB Mikro - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Kotak casing (x1)<br>• Adaptor DC 5V (x1) |
 
 <br><br>
@@ -321,7 +321,7 @@ Via Telegram: <a href="https://t.me/monistera_bot">@monistera_bot</a>
 ## Sorotan
 <table>
 <tr>
-<th width="420">Perangkat Suhu dan Kelembaban</th>
+<th width="420">Perangkat Suhu dan Kelembapan</th>
 <th width="420">Pemantauan Melalui Monitor Serial</th>
 </tr>
 <tr>
