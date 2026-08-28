@@ -146,7 +146,7 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
 
 7. Change the ``` WiFi Name ```, ``` WiFi Password ```, and so on according to what you are currently using.<br><br>
 
-8. Before uploading the program please click: ``` Verify ```.<br><br>
+8. Before uploading the program, please click: ``` Verify ```.<br><br>
 
 9. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
@@ -175,7 +175,7 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
    
       • Click ``` Save Channel ```.
    
-      • Click ``` Sharing ``` -> in the ``` Channel Sharing Settings ``` section please select -> ``` Share channel view with everyone ```.
+      • Click ``` Sharing ``` -> in the ``` Channel Sharing Settings ``` section, please select -> ``` Share channel view with everyone ```.
 
    </td></tr></table><br>
 
