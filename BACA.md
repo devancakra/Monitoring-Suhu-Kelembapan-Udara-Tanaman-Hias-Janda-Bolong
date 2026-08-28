@@ -161,7 +161,7 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
    
       • Silakan <a href="https://thingspeak.com/login">Masuk</a> agar dapat mengakses layanan ThingSpeak.
       
-      • Jika anda belum memiliki akun ThingSpeak silakan buat dulu.
+      • Jika anda belum memiliki akun ThingSpeak, silakan buat dulu.
 
    </td></tr></table><br>
 
@@ -175,7 +175,7 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
    
       • Klik ``` Save Channel ```.
    
-      • Klik ``` Sharing ``` -> pada bagian ``` Channel Sharing Settings ``` silakan pilih -> ``` Share channel view with everyone ```.
+      • Klik ``` Sharing ``` -> pada bagian ``` Channel Sharing Settings ```, silakan pilih -> ``` Share channel view with everyone ```.
 
    </td></tr></table><br>
 
@@ -203,7 +203,7 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
    
       • Klik ``` Numeric Display ``` -> kemudian pilih ``` Next ```.
    
-      • Pada bagian ``` Configure widget parameters ``` silakan isi sesuai dengan kebutuhan anda -> kemudian pilih ``` Create ```.
+      • Pada bagian ``` Configure widget parameters ```, silakan isi sesuai dengan kebutuhan anda -> kemudian pilih ``` Create ```.
    
       • Jika ingin mengubah isi widget, silakan klik ``` Widget Options ``` -> kemudian pilih ``` Save ``` untuk menyimpan.
 
